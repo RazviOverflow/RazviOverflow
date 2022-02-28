@@ -3,10 +3,10 @@
 
 
 <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=razvioverflow&count_private=true&show_icons=true&theme=radical"></a>
-
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RazviOverflow&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a>
-
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=razvioverflow&count_private=true&show_icons=true&theme=radical"></a></p>
+<p align="center">
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RazviOverflow&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a></p>
+<p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razvioverflow&theme=radical"></a>
 </p>
 
