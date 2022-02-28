@@ -1,4 +1,9 @@
-### Hi there 👋
+# Exploit code, not people.
+![RazviOverflow](./images/logo_v0.png)
+![RazviOverflow](./images/logo_v1.png)
+[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=razvioverflow&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RazviOverflow&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=razvioverflow&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **RazviOverflow/RazviOverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
