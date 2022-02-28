@@ -10,9 +10,20 @@
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razvioverflow&theme=radical"></a>
 </p>
 
-_My crime is that of curiosity._
+<p align="center">
+	<i>My crime is that of curiosity.</i>
+</p>
 
-## Reach me out at
+### Reach me out at
+
+<p align="center">
+	<a href="https://twitter.com/razvieu" target="_blank">
+	  <img align="center" alt="Razvieu on Twitter" width="26px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />
+	</a> &nbsp;&nbsp;
+	<a href="https://www.youtube.com/channel/UCHkIKBnymUECkJ-d2RBJR8w" target="_blank">
+	  <img align="center" alt="RazviOverflow on YouTube" width="26px" src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" />
+	</a>
+</p>
 
 
 <!--
