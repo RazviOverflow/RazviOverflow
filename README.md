@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <h3><b>Reach me out at</b></h3>
+  <h3><b>Reach me out on</b></h3>
 </div>
 
 <p align="center">
