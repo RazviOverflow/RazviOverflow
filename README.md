@@ -20,10 +20,10 @@
 
 <p align="center">
 	<a href="https://twitter.com/razvieu" target="_blank">
-	  <img align="center" alt="Razvieu on Twitter" width="80px" src="./images/Twitter.svg" />
+	  <img align="center" alt="Razvieu on Twitter" width="65px" src="./images/Twitter.svg" />
 	</a> &nbsp;&nbsp;
 	<a href="https://www.youtube.com/RazviOverflow" target="_blank">
-	  <img align="center" alt="RazviOverflow on YouTube" width="80px" src="./images/Youtube.svg" />
+	  <img align="center" alt="RazviOverflow on YouTube" width="65px" src="./images/Youtube.svg" />
 	</a>
 </p>
 
